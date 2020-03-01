@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Aumondian Interviews</title>
+    <link>aumondian.com</link>
+    <description>Ormond College Interview Show</description>
+    <language>en-us</language>
+    <managingEditor>ormondcollegepodcast@gmail.com</managingEditor>
+    <webMaster>ormondcollegepodcast@gmail.com</webMaster>
+    <copyright>2020</copyright>
+    <image>
+      <title>Aumondian Interviews</title>
+      <link>aumondian.com</link>
+      <url>aumondian.com/0.png</url>
+    </image>
+    <item>
+      <title>Introduction</title>
+      <pubDate>Sun, 1 Mar 2020 23:38:12 +1100</pubDate>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
